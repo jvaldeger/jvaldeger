@@ -1,12 +1,8 @@
-
-
+<h3>⚙️Análise</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jvaldeger&show_icons=true&hide=prs,issues&custom_title=My%20GitHub%20Statistics&bg_color=0A0F1C&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&border_color=1E293B" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvaldeger&layout=compact&custom_title=My%20Programming%20Languages&bg_color=0A0F1C&title_color=38BDF8&text_color=CBD5E1&border_color=1E293B" />
+  <img height="192" src="https://github-readme-stats.vercel.app/api?username=jvaldeger&show_icons=true&custom_title=My%20GitHub%20Statistics&bg_color=0A0F1C&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&border_color=1E293B" />
+  <img height="192" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvaldeger&layout=compact&custom_title=My%20Programming%20Languages&bg_color=0A0F1C&title_color=38BDF8&text_color=CBD5E1&border_color=1E293B" />
 </p>
-
-
-
 
 <br>
 
