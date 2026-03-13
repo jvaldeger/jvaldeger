@@ -1,8 +1,8 @@
 
 <!-- Cabeçalho e Estatísticas (Azul Moderno e Fundo Dark) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&bg_color=0A0F1C&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&border_color=1E293B" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&bg_color=0A0F1C&title_color=38BDF8&text_color=CBD5E1&border_color=1E293B" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jvaldeger&show_icons=true&bg_color=0A0F1C&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&border_color=1E293B" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvaldeger&layout=compact&bg_color=0A0F1C&title_color=38BDF8&text_color=CBD5E1&border_color=1E293B" width="48%" />
 </div>
 
 <br>
