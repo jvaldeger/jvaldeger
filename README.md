@@ -1,7 +1,10 @@
 <h3>⚙️Análise</h3>
 <p align="center">
-  <img height="192" src="https://github-readme-stats.vercel.app/api?username=jvaldeger&show_icons=true&custom_title=My%20GitHub%20Statistics&bg_color=0A0F1C&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&border_color=1E293B" />
-  <img height="192" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvaldeger&layout=compact&custom_title=My%20Programming%20Languages&bg_color=0A0F1C&title_color=38BDF8&text_color=CBD5E1&border_color=1E293B" />
+  <a href="https://github.com/AVS1508">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jvaldeger&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jvaldeger&layout=compact&langs_count=8&theme=dark"/>
+  </a>
+</p>
 </p>
 
 <br>
