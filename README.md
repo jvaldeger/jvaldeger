@@ -1,6 +1,6 @@
 <h3>⚙️Análise</h3>
 <p align="center">
-  <a href="https://github.com/AVS1508">
+  <a>
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jvaldeger&show_icons=true&include_all_commits=true&count_private=true&bg_color=0A0F1C&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&border_color=1E293B" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jvaldeger&layout=compact&langs_count=8&bg_color=0A0F1C&title_color=38BDF8&text_color=CBD5E1&border_color=1E293B" />
   </a>
